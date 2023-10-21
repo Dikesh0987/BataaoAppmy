@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202972262504",
+    "project_id": "bataao-d3971",
+    "storage_bucket": "bataao-d3971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202972262504:android:7fa56c122178e0cd428bdd",
+        "android_client_info": {
+          "package_name": "com.example.bataao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFTSrAZ6UUbN1TPHTlytTG8OlUahhb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
